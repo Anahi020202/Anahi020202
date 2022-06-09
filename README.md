@@ -1,3 +1,4 @@
+<img aling="center" src="logo.png" width="1100" height="400" >
 ### HOLA.👋🏻👋🏻. LA UNICA REGLA AQUI  ES " NEVER NEVER, GIVE UP"
 
 <!--
